@@ -1,0 +1,1 @@
+// Codigo necesario para configurar la ventana (vista) de la aplicacion

@@ -39,6 +39,7 @@ bower_components
 build/Release
 
 # Dependency directories
+app01-intro-win32-x64/
 node_modules/
 jspm_packages/
 

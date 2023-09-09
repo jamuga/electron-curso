@@ -1,0 +1,25 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "Aplicacion de escritorio multiplataforma en electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamuga/electron-curso.git"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Javier Murcia Galvez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamuga/electron-curso/issues"
+  },
+  "homepage": "https://github.com/jamuga/electron-curso#readme",
+  "devDependencies": {
+    "electron": "^26.2.0"
+  }
+}
